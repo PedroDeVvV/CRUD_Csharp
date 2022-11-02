@@ -1,0 +1,16 @@
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\bin\Debug\BancodeDados.exe.config
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\bin\Debug\BancodeDados.exe
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\bin\Debug\BancodeDados.pdb
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.csprojResolveAssemblyReference.cache
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.exe
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.pdb
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.MainForm.resources
+F:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.csproj.GenerateResource.Cache
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\bin\Debug\BancodeDados.exe.config
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\bin\Debug\BancodeDados.exe
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\bin\Debug\BancodeDados.pdb
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.csprojResolveAssemblyReference.cache
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.MainForm.resources
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.csproj.GenerateResource.Cache
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.exe
+D:\Programação e Algorítmos\BancodeDados\BancodeDados\obj\Debug\BancodeDados.pdb
