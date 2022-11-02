@@ -2,7 +2,7 @@
 
 ![preview](./imagemgif.gif)
 
-✍️Atividade proposta na Etec de Embu, utilizando a linguagem C# como ferramente e também Windows Forms.
+✍️Atividade proposta na Etec de Embu, utilizando a linguagem C# como ferramenta e também Windows Forms.
 
 ##📃 Mini Banco de Dados
 O objetivo era criar utilizando Windows forms e C# um mini banco de dados, com as funções criar, ler, atualizar e excluir e além disso uma busca por registro.
